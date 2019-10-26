@@ -71,12 +71,10 @@ public class main {
         weights_0_1[0][1] = 0.72;
         weights_0_1[0][2] = -0.25;
         weights_0_1[0][3] = 1;
-
         weights_0_1[1][0] = -0.94;
         weights_0_1[1][1] = -0.41;
         weights_0_1[1][2] = -0.47;
         weights_0_1[1][3] = 0.63;
-
         weights_0_1[2][0] = 0.15;
         weights_0_1[2][1] = 0.55;
         weights_0_1[2][2] = -0.49;
